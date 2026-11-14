@@ -1,10 +1,10 @@
 {
-  "versionCode": 78,
-  "versionName": "1.51.0",
-  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.51.0/juku-1.51.0-release.apk",
+  "versionCode": 77,
+  "versionName": "1.52.0",
+  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.52.0/juku-1.52.0-release.apk",
   "apkParts": [],
-  "size": 6113333,
-  "sha256": "2a541456c2d031586aef7954f6cef2f29228af8a25c51ecdec7c576d80761d80",
+  "size": 6115361,
+  "sha256": "511170fd49524daa6174e478891cb22ce763abee7321acede8a3f01cd92eda8a",
   "minVersionCode": 0,
-  "changelog": "播放器侧边工具收进右上角「更多」；播放器上滑上一集/下滑下一集；封面标注渠道；首页改为热播榜+各站源精选推荐流；软件更新支持代理下载"
+  "changelog": "设置页「网络与代理」改为常规设置行"
 }
