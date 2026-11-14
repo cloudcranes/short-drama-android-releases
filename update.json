@@ -1,9 +1,9 @@
 {
-  "versionCode": 66,
-  "versionName": "1.41.0",
-  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.41.0/juku-1.41.0-release.apk",
-  "size": 9244504,
-  "sha256": "85ca2f7edc98eb3429cf00853efa7d1fe4dc072261a55e29c82eb2c45db54e53",
-  "changelog": "Phase 99：帝果站源降级（成人站源提示卡 + 搜索不再请求帝果）",
+  "versionCode": 67,
+  "versionName": "1.42.0",
+  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.42.0/juku-1.42.0-release.apk",
+  "size": 9244412,
+  "sha256": "23b97db742f1140a760c891b68cb7a2619a70a6ee774a6a19922c7bb070f87dd",
+  "changelog": "Phase 100：首页默认全部渠道（红果匿名受限不再挡路）、修复付费集提示文案",
   "minVersionCode": 0
 }
