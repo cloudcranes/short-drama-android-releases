@@ -1,9 +1,9 @@
 {
-  "versionCode": 67,
-  "versionName": "1.42.0",
-  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.42.0/juku-1.42.0-release.apk",
-  "size": 9244412,
-  "sha256": "23b97db742f1140a760c891b68cb7a2619a70a6ee774a6a19922c7bb070f87dd",
-  "changelog": "Phase 100：首页默认全部渠道（红果匿名受限不再挡路）、修复付费集提示文案",
+  "versionCode": 68,
+  "versionName": "1.43.0",
+  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.43.0/juku-1.43.0-release.apk",
+  "size": 9246500,
+  "sha256": "3fe2f81c7aa5cc3382aef726a9599d0ef0f868d3fc180de32668e61c86e86308",
+  "changelog": "Phase 101：红果协议服务端 + App 兜底通道",
   "minVersionCode": 0
 }
