@@ -1,9 +1,13 @@
 {
-  "versionCode": 68,
-  "versionName": "1.43.0",
-  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.43.0/juku-1.43.0-release.apk",
-  "size": 9246500,
-  "sha256": "3fe2f81c7aa5cc3382aef726a9599d0ef0f868d3fc180de32668e61c86e86308",
-  "changelog": "Phase 101：红果协议服务端 + App 兜底通道",
-  "minVersionCode": 0
+  "versionCode": 70,
+  "versionName": "1.45.0",
+  "apkUrl": "",
+  "apkParts": [
+    "https://raw.githubusercontent.com/cloudcranes/short-drama-android-apk/main/juku-1.45.0-release.apk.part1",
+    "https://raw.githubusercontent.com/cloudcranes/short-drama-android-apk/main/juku-1.45.0-release.apk.part2"
+  ],
+  "size": 15990765,
+  "sha256": "a67635fbc3275d73b790c46c41114bb95a7edb8e0a8f13e2476cff7bbb31d6f8",
+  "changelog": "1.45.0：内置红果协议服务端（随包，安装即用）；更新清单支持分片下载。",
+  "minVersionCode": 62
 }
