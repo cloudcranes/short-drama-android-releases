@@ -1,0 +1,9 @@
+{
+  "versionCode": 62,
+  "versionName": "1.37.0",
+  "minVersionCode": 0,
+  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.37.0/juku-1.37.0-release.apk",
+  "size": 9238792,
+  "sha256": "cdd4bcf8043effabd165b61b8e7f8208dff0d68729dc70adf07a7c78c1b21330",
+  "changelog": "1) 新增应用内热更新：设置页「软件更新」可检查更新、下载并安装；2) 支持自定义更新源；3) 细节优化。"
+}
