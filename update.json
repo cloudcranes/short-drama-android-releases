@@ -1,9 +1,9 @@
 {
-  "versionCode": 65,
-  "versionName": "1.40.0",
-  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.40.0/juku-1.40.0-release.apk",
-  "size": 9245292,
-  "sha256": "9134788ea9006bb68e1870b730f515ffe76cf2efa03ef91dabb0d88b0f2dc9e9",
-  "changelog": "Phase 98：剧果 377 个官方分类导航（分类页入口 + 分类浏览器 + 按分类筛选与分页）",
+  "versionCode": 66,
+  "versionName": "1.41.0",
+  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.41.0/juku-1.41.0-release.apk",
+  "size": 9244504,
+  "sha256": "85ca2f7edc98eb3429cf00853efa7d1fe4dc072261a55e29c82eb2c45db54e53",
+  "changelog": "Phase 99：帝果站源降级（成人站源提示卡 + 搜索不再请求帝果）",
   "minVersionCode": 0
 }
