@@ -1,9 +1,9 @@
 {
-  "versionCode": 63,
-  "versionName": "1.38.0",
-  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.38.0/juku-1.38.0-release.apk",
-  "size": 9239656,
-  "sha256": "1c6fb90917c4b8b6eee5765fb7ec2874bcb74b02c63c654314b8c52f08be7887",
-  "changelog": "Phase 96：VIP 集备用 HLS 线路兜底；详情页显示免费/VIP 集数与 VIP 角标。",
-  "minVersionCode": 0
+  "versionCode": 64,
+  "versionName": "1.39.0",
+  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.39.0/juku-1.39.0-release.apk",
+  "size": 9240248,
+  "sha256": "71eb89c6e79555ed0eabcec2b9d42922513c39bfdf87e0ce784bde1cade5e6e0",
+  "changelog": "Phase 97：会员集置灰 + 「需会员」标 + 播放按钮标「仅试看」+ 点会员集立刻提示，并修复若干细节。",
+  "minVersionCode": 1
 }
