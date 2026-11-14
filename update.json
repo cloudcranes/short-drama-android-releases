@@ -1,10 +1,10 @@
 {
-  "versionCode": 76,
-  "versionName": "1.49.0",
-  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.49.0/juku-1.49.0-release.apk",
+  "versionCode": 77,
+  "versionName": "1.50.0",
+  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.50.0/juku-1.50.0-release.apk",
   "apkParts": [],
-  "size": 6109493,
-  "sha256": "ac958a66e14ea58644a9cd0f10e64fb3dbb47c54d4df3f21e823f57fe4e1dc67",
+  "size": 6110701,
+  "sha256": "47c3dfd5630f98266922e1d9cdadccaeea0c12a47f1762ff68186bfe24559a39",
   "minVersionCode": 0,
-  "changelog": "设置页改为展示各站源域名连接延时，移除数据源切换"
+  "changelog": "设置页「网络与代理」改为常规设置行"
 }
