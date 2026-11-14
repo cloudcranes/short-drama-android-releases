@@ -1,10 +1,10 @@
 {
-  "versionCode": 80,
-  "versionName": "1.53.0",
-  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.53.0/juku-1.53.0-release.apk",
+  "versionCode": 83,
+  "versionName": "1.55.0",
+  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.55.0/juku-1.55.0-release.apk",
   "apkParts": [],
-  "size": 6116549,
-  "sha256": "a1a748ed6eb150d00b77331d7ce6bf91434700d3579b49886f04d8610d8f1d12",
+  "size": 6129453,
+  "sha256": "7726e629395c3d30ad2161cf474db0831a2f3356e4ff87906764c2e43b79dbff",
   "minVersionCode": 0,
-  "changelog": "分类页、排行页恢复「加载更多」分页"
+  "changelog": "默认静音播放，竖滑切集，音量/亮度移入播放工具"
 }
