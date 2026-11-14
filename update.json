@@ -1,10 +1,10 @@
 {
-  "versionCode": 79,
-  "versionName": "1.52.0",
-  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.52.0/juku-1.52.0-release.apk",
+  "versionCode": 80,
+  "versionName": "1.53.0",
+  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.53.0/juku-1.53.0-release.apk",
   "apkParts": [],
-  "size": 6115361,
-  "sha256": "511170fd49524daa6174e478891cb22ce763abee7321acede8a3f01cd92eda8a",
+  "size": 6116549,
+  "sha256": "a1a748ed6eb150d00b77331d7ce6bf91434700d3579b49886f04d8610d8f1d12",
   "minVersionCode": 0,
-  "changelog": "软件更新支持下载加速：内置 ghfast.top / gh-proxy.com / ghproxy.net / hub.gitmirror.com 镜像，可自定义前缀"
+  "changelog": "分类页、排行页恢复「加载更多」分页"
 }
