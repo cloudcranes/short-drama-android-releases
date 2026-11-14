@@ -1,13 +1,10 @@
 {
-  "versionCode": 71,
-  "versionName": "1.45.1",
-  "apkUrl": "",
-  "apkParts": [
-    "https://raw.githubusercontent.com/cloudcranes/short-drama-android-apk/main/juku-1.45.1-release.apk.part1",
-    "https://raw.githubusercontent.com/cloudcranes/short-drama-android-apk/main/juku-1.45.1-release.apk.part2"
-  ],
-  "size": 15990909,
-  "sha256": "5817a128e9d63639ed2dfb2e26b6366c55d45213d534c790dc0368ea17e021c2",
-  "changelog": "1.45.1：内置红果协议服务端（随包，安装即用）；更新清单支持分片下载（修复 HTTP/2 中断，自动重试）。",
-  "minVersionCode": 62
+  "versionCode": 75,
+  "versionName": "1.48.0",
+  "apkUrl": "https://github.com/cloudcranes/short-drama-android-releases/releases/download/v1.48.0/juku-1.48.0-release.apk",
+  "apkParts": [],
+  "size": 6108777,
+  "sha256": "ef5609b5664ad0c18af0d3e00625c8feb92c4bd05901f959c9c2ecee04f78d8e",
+  "minVersionCode": 0,
+  "changelog": "取消排行/分类界面内的搜索框（全局搜索保留）"
 }
